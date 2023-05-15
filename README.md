@@ -25,7 +25,11 @@ ShareMe App is a great platform for users who love photography and social intera
 
 # Security
 
+Github public code:
 For security reasons, this publicly available application code does not contain an .env file with API keys and Google Client ID,which are also necessary to run the application locally.
+
+Website:
+The functions of adding photos and comments have been excluded from public use for security reasons
 
 # Learn more
 
